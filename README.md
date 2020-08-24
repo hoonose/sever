@@ -52,3 +52,16 @@ Figures in the paper can be approximately reproduced by running the following sc
 Reference
 ===
 This repository is an implementation of our paper [Sever: A Robust Meta-Algorithm for Stochastic Optimization](https://arxiv.org/abs/1803.02815) in [ICML 2019](https://icml.cc/Conferences/2019), authored by [Ilias Diakonikolas](http://www.iliasdiakonikolas.org/), [Gautam Kamath](http://www.gautamkamath.com/), [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/), [Jerry Li](http://www.mit.edu/~jerryzli/), [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/), and [Alistair Stewart](http://www.alistair-stewart.com/).
+
+If you use our code or paper, we ask that you please cite:
+```
+@inproceedings{DiakonikolasKKLSS19,
+  author        = {Diakonikolas, Ilias and Kamath, Gautam and Kane, Daniel M. and Li, Jerry and Steinhardt, Jacob and Stewart, Alistair},
+  title         = {Sever: A Robust Meta-Algorithm for Stochastic Optimization},
+  booktitle     = {Proceedings of the 36th International Conference on Machine Learning},
+  series        = {ICML '19},
+  year          = {2019},
+  pages         = {1596--1606},
+  publisher     = {JMLR, Inc.}
+}
+```
